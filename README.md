@@ -16,5 +16,4 @@ Before starting on this programming exercises, we strongly recommend watching th
 
 
 
-
 ## Thank you.
